@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 django-environ = "*"
 pyjwt = "*"
+drf-yasg = "*"
 
 [dev-packages]
 
